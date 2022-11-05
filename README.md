@@ -1,4 +1,7 @@
 # Robot-Learning-Control
+Final Project for the course in Robotics 2 A.Y. 2019/2020.
+
+## Project Description
 In order to make a robot system execute tasks as regulation and trajectory tracking it needs definitely
 a feedback control which effectively correct the errors of the feed-forward commands. Standard control
 methods consist in the inversion of the dynamics model in order to calculate the necessary torque that
