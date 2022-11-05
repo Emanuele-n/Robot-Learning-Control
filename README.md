@@ -14,8 +14,8 @@ in this project, we are going to implement the Gaussian Process Regression over 
 errors between the nominal dynamic models and the ”real one”.
 
 ## Documentation
-A detailed report of the project <br/>
-The presentation we gave <br/>
+A detailed [report](Robotics_II.pdf) of the project <br/>
+The [presentation](Gaussian Process Slides.pptx) we gave <br/>
 
 ## Resources used
 [MATLAB Robotics System Toolbox](https://www.mathworks.com/products/robotics.html)
